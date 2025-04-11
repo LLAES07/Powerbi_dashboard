@@ -1,8 +1,3 @@
-## Presentación Dashboard
-
-
-Link para mirar dashboard: https://youtu.be/8qkbmnr5jCk
-
 
 # [Nombre del Proyecto/Dashboard de Power BI]
 
@@ -11,7 +6,7 @@ Link para mirar dashboard: https://youtu.be/8qkbmnr5jCk
 
 ## 📝 Descripción General
 
-El presente proyecto surge de la necesidad de generar insights a partir de mas de 8 mil datos de recursos interpuesto en las distintas cortes de apelaciones de chile en contra de NMV en un plazo de 1 año. En este contexto es de vital importancia para la empresa conocer como se distribuyeron en los cuatrimestres, meses y semanas la  frecuencia de los distintos estados de los recursos.
+El presente proyecto surge de la necesidad de generar insights a partir de mas de 8 mil datos de recursos interpuesto en las distintas cortes de apelaciones de chile en contra de NMV en un plazo de 1 año. En este contexto es de vital importancia para la empresa conocer como se distribuyeron en los cuatrimestres, meses y semanas la  frecuencia de los distintos estados de los recursos como asi también las diferentes materias a las que se refieren estos.
 
 ---
 
@@ -21,8 +16,8 @@ Dado que la publicación directa de dashboards de Power BI requiere configuracio
 
 **➡️ Ver la Demostración en Video:**
 
-[![Vista Previa del Video del Dashboard](URL_DE_LA_IMAGEN_PREVISUALIZACION_DEL_VIDEO)](URL_DEL_VIDEO_DE_YOUTUBE_O_SIMILAR)
-*(Haz clic en la imagen para ver el video explicativo en [YouTube/Vimeo/etc.])_
+
+[![Video](https://img.youtube.com/vi/video-id/default.jpg)](https://youtu.be/8qkbmnr5jCk)
 
 **Alternativamente (o adicionalmente):**
 
