@@ -17,48 +17,33 @@ Dado que la publicación directa de dashboards de Power BI requiere configuracio
 **➡️ Ver la Demostración en Video:**
 
 
-[![Video](https://img.youtube.com/vi/video-id/default.jpg)](https://youtu.be/8qkbmnr5jCk)
+[![Video de YouTube](https://img.youtube.com/vi/8qkbmnr5jCk/0.jpg)](https://youtu.be/8qkbmnr5jCk)
 
-**Alternativamente (o adicionalmente):**
 
-* **Screenshots Clave:** Puedes ver algunas vistas importantes del dashboard aquí:
-    * [Enlace a Screenshot 1 o incrústalo directamente]
-    * [Enlace a Screenshot 2 o incrústalo directamente]
-    * ...
-* **GIFs Animados:** Demostración de interacción específica:
-    * [Enlace a GIF 1 o incrústalo directamente]
-
----
 
 ## 🎯 Objetivos del Proyecto
 
-* Listar los objetivos específicos que buscabas alcanzar con este dashboard.
-* ¿Qué preguntas de negocio buscaba responder?
-* Ejemplo:
-    * Visualizar el rendimiento de ventas a lo largo del tiempo y por categoría.
-    * Identificar los clientes y productos más rentables.
-    * Analizar la efectividad de las campañas de marketing por región.
-    * Proveer una herramienta interactiva para la exploración de datos por parte del equipo de ventas.
-
+* Herramienta de visualización
+* Tendencia general de los datos
+* Generar insights del año 2024
+* Cantidad de ingresos por  mes y semanas
+* Cantidad de materias segun la cantidad de ingresos
+  
 ---
 
 ## 💾 Fuentes de Datos
 
-* Describe de dónde provienen los datos. Sé general si son datos sensibles.
-* Menciona el tipo de datos (Ej: Ventas, Marketing, Recursos Humanos, Web Analytics).
-* Menciona si son datos públicos, simulados, anonimizados o de un proyecto real (con permiso si aplica).
-* Ejemplo: Se utilizó un conjunto de datos simulado que replica una estructura típica de ventas minoristas, incluyendo tablas de transacciones, productos, clientes y fechas. Los datos fueron generados/obtenidos de [Fuente, ej: Kaggle, datos propios simulados].
+* Base de datos NMV
+* Base de datos NMV - Fiscalia
+
 
 ---
 
 ## 🛠️ Herramientas y Tecnologías Utilizadas
 
 * **Power BI Desktop:** Para el diseño, modelado y visualización.
-* **Power Query (Editor de Consultas):** Para la extracción, transformación y carga (ETL) de los datos. Menciona brevemente las transformaciones clave (limpieza, combinación de tablas, etc.).
-* **DAX (Data Analysis Expressions):** Para la creación de medidas y columnas calculadas complejas. Menciona algunas medidas importantes si las hay.
-* **(Opcional) Excel:** Si se usó como fuente o para algún pre-procesamiento.
-* **(Opcional) SQL:** Si los datos se extrajeron de una base de datos.
-* **(Opcional) Python/R:** Si se usaron para algún análisis o visualización externa integrada.
+* **SQL:** Consulta de datos y extracción de base de datos NMV
+* **Python/pandas:** Se utilizó para limpiar los datos de la BBDD NMV
 
 ---
 
