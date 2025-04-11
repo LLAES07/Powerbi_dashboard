@@ -55,14 +55,3 @@ Dado que la publicación directa de dashboards de Power BI requiere configuracio
 
 ---
 
-
-
-
-## 👤 Autor
-
-* **[Tu Nombre]**
-* **GitHub:** [Enlace a tu perfil de GitHub]
-* **LinkedIn:** [Enlace a tu perfil de LinkedIn]
-* **Portfolio:** [Enlace a tu portfolio personal si tienes uno]
-
----
