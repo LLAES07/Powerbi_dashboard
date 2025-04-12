@@ -48,10 +48,22 @@ Dado que la publicación directa de dashboards de Power BI requiere configuracio
 
 ## ✨ Características Principales y Análisis Realizado
 
+* Graficos de barras tanto para meses y para la cantidad de ingresos por cortes
+* Gráfico de tendencia general de la cantidad de ingresos actualizable desde año a meses.
+* Panel de seleccion de meses a visualizar.
+* Contadores actualizables para cada BBDD.
+* Gráfico circular para representar las materias ingresadas
+* Edad promedio de los reclamantes.
+
 ---
 
 ## 💡 Insights Clave Obtenidos
 
-
+* EN 2024 se ingresaron 4951 ingresos en BBDD NMV-fiscalia y 4110 en BBDD NMV.
+* El tercer trimestre fue cuando más recursos se interpusieron
+* El mes con mayor cantidad de ingresos fue en abril
+* El mes con menor cantidad de ingresos fue enero
+* La edad promedio de los reclamantes es de 52 años.
+* La materia más reclamada fue PRECIO BASE 2024-2025
 ---
 
